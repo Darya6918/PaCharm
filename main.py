@@ -5,7 +5,7 @@
 #Если 1ое число больше пограничного более, чем в 3 раза, сообщить об этом.
 number = int(input("введите число:"))
 border_number = 42
-if number1 < Border_number:
+if number1 < border_number:
     print("1ое число меньше пограничного")
 if number1 > border_number:
     print("1ое число больше пограничного")
